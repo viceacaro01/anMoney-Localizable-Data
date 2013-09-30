@@ -8,7 +8,7 @@
     <string name="asset">Conto Attività</string>
 <!-- <string name="associated_loan">Associazione prestito</string> -->
 <!-- <string name="associated_loan_if_any">Prestito associato, se presente</string> -->
-<!-- <string name="associated_reward_program">Ricompensa programma associato</string> -->
+<!-- <string name="associated_reward_program">Ricompensa associazione programma</string> -->
 <!-- <string name="associated_reward_program_if_any">Ricompensa programma associato, se presente</string> -->
     <string name="account_balances">Saldi conto</string>
    	<string name="vehicle">Veicolo</string>
