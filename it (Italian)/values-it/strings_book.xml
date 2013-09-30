@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="book">Libretto</string>
+    <string name="book">Registro</string>
     <string name="new_book">Nuovo libretto</string>
     <string name="new_book_name">Nuovo nome del libretto</string>
     <string name="rename_book">Rinomina libretto</string>
