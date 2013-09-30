@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="book">Registro</string>
-    <string name="new_book">Nuovo libretto</string>
-    <string name="new_book_name">Nuovo nome del libretto</string>
-    <string name="rename_book">Rinomina libretto</string>
-    <string name="delete_book">Elimina libretto</string>
+    <string name="new_book">Nuovo registro</string>
+    <string name="new_book_name">Nuovo nome del registro</string>
+    <string name="rename_book">Rinomina registro</string>
+    <string name="delete_book">Elimina registro</string>
 	<string name="share_book">Spedisci libretto</string>
     <string name="book_delete_warning_short_format">Libretto ^1 sarà eliminato</string>
     <string name="all_data_will_be_lost">Tutte le informazioni contenute in questo libretto saranno eliminate, se non fai un backup</string>
